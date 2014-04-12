@@ -7,6 +7,8 @@ Screenshot:
 
 ![Esperanto Text watch screenshot](http://imageshack.com/a/img197/4856/ps9f.png)
 
+Get the PWB here: http://www.mypebblefaces.com/apps/23781/10799/
+
 Pebble Text Watch
 =================
 
