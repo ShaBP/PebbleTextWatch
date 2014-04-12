@@ -1,3 +1,11 @@
+Esperanto version of the Pebble Text Watch
+==========================================
+
+A simple translation of the English text of the time, to Esperanto.
+
+Screenshot:
+
+
 Pebble Text Watch
 =================
 
