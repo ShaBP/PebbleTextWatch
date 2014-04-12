@@ -4,7 +4,7 @@ Esperanto version of the Pebble Text Watch
 A simple translation of the English text of the time, to Esperanto.
 
 Screenshot:
-![Esperanto Text watch screenshot](http://imagizer.imageshack.us/a/img850/6366/6eqq.jpg)
+![Esperanto Text watch screenshot](http://imageshack.com/i/n8clbkj)
 
 Pebble Text Watch
 =================
