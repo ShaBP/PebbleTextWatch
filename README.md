@@ -4,7 +4,8 @@ Esperanto version of the Pebble Text Watch
 A simple translation of the English text of the time, to Esperanto.
 
 Screenshot:
-![Esperanto Text watch screenshot](http://imageshack.us/a/img836/9365/clbk.jpg)
+
+![Esperanto Text watch screenshot](http://imageshack.com/a/img197/4856/ps9f.png)
 
 Pebble Text Watch
 =================
@@ -19,5 +20,5 @@ Compiled build: http://c.wip.ro/0t0i0J172R2Q
 
 Romanian language source code available in the textRO branch: https://github.com/wearewip/PebbleTextWatch/tree/textRO
 
-Screenshot:  
+Screenshot:
 ![Text watch screenshot](http://c.wip.ro/image/221C402K3y0t/photo.JPG)
